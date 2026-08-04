@@ -1,7 +1,0 @@
-cookies.txt
-__pycache__/
-.streamlit/secrets.toml
-*.part
-*.ytdl
-
-.env
