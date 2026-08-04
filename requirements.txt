@@ -1,0 +1,4 @@
+# Canal reciente de yt-dlp para mantener compatibilidad con múltiples sitios
+--pre
+streamlit>=1.45,<2
+yt-dlp[default,curl-cffi]>=2026.7.23.234303
