@@ -1,2 +1,0 @@
-streamlit>=1.45,<2
-yt-dlp[default,curl-cffi]>=2026.7.4
